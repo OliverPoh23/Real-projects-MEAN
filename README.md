@@ -1,5 +1,5 @@
 # Real-World Projects with MEAN Stack [Video]
-This is the code repository for [Real-World Projects with MEAN Stack [Video]](https://www.packtpub.com/web-development/real-world-projects-mean-stack-video?utm_source=github&utm_medium=repository&utm_campaign=9781789349566), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 With MEAN, we can now build an application that is completely written on JavaScript technologies from front end to backend and also at database level. Dive deeper into MEAN Stack by building 3 real world projects. You will cover the core topics of end-to-end Web Application development with MongoDB, Express, Angular and NodeJS 
 
