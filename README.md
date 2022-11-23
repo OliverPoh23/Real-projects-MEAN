@@ -71,11 +71,3 @@ This course has been tested on the following system configuration:
 
 ●	Video Card: 256MB Video Memory
 
-
-## Related Products
-* [Real-World Machine Learning Projects with Scikit-Learn [Video]](https://www.packtpub.com/big-data-and-business-intelligence/real-world-machine-learning-projects-scikit-learn-video?utm_source=github&utm_medium=repository&utm_campaign=9781789131222)
-
-* [Real World Projects with Vue.js [Video]](https://www.packtpub.com/web-development/real-world-projects-vuejs-video?utm_source=github&utm_medium=repository&utm_campaign=9781789340754)
-
-* [Real-World Machine Learning Projects Using TensorFlow [Video]](https://www.packtpub.com/big-data-and-business-intelligence/real-world-machine-learning-projects-using-tensorflow-video?utm_source=github&utm_medium=repository&utm_campaign=9781789340174)
-
